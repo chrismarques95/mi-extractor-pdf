@@ -1,5 +1,5 @@
 {
- "name": "mi-extractor-pdf",
+ "name" : "mi-extractor-pdf",
  "version": "1.0.0",
  "private": true,
  "dependencies": {
